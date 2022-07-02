@@ -8,3 +8,7 @@ SCM Tool
 
 
 Developers
+
+
+
+Working with Merge Conflicts
